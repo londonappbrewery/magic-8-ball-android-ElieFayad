@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="title">This is the moment of truth...</string>
+    <string name="button_label">Reveal Answer</string>
 </resources>
